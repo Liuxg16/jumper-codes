@@ -1,0 +1,12 @@
+*.pyc
+*.log
+OpenNMT/data
+*.params
+*.out
+*/nhid*
+*/model_*
+model_*
+*/*/model_*
+*/models*
+*/*/models*
+*/.ipynb_check*
